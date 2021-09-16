@@ -1,34 +1,18 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Crypto Search
 
-## Getting Started
+## User Story
+Created this small app using Next.js and React.js by following a short youtube tutorial to learn new skills and practice different styles of coding. This app can be used to find and search for a crypto currency.
 
-First, run the development server:
+## Credit
+Credit for the video I used to practice and for source code goes to: https://www.youtube.com/watch?v=Kff_KRvpxj4
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+## Built Using
+- Next.js
+- React.js
+- CSS
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Deployed Site at:
+https://crypto-search-m1va6iduy-davsav16.vercel.app/
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## ScreenShot
+![CryptoImage](https://user-images.githubusercontent.com/77703087/133558486-ce85da79-244e-48a4-91ab-b9ba8b0c7a5e.PNG)
